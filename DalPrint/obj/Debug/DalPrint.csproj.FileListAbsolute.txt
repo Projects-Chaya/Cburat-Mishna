@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Mishna\Print\DalPrint\bin\Debug\DalPrint.dll
+C:\Users\User\Desktop\Mishna\Print\DalPrint\bin\Debug\DalPrint.pdb
+C:\Users\User\Desktop\Mishna\Print\DalPrint\obj\Debug\DalPrint.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Mishna\Print\DalPrint\obj\Debug\DalPrint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mishna\Print\DalPrint\obj\Debug\DalPrint.dll
+C:\Users\User\Desktop\Mishna\Print\DalPrint\obj\Debug\DalPrint.pdb
+D:\קבצי משתמש\תכנות\סילבר\Print\DalPrint\bin\Debug\DalPrint.dll
+D:\קבצי משתמש\תכנות\סילבר\Print\DalPrint\bin\Debug\DalPrint.pdb
+D:\קבצי משתמש\תכנות\סילבר\Print\DalPrint\obj\Debug\DalPrint.csprojResolveAssemblyReference.cache
+D:\קבצי משתמש\תכנות\סילבר\Print\DalPrint\obj\Debug\DalPrint.csproj.CoreCompileInputs.cache
+D:\קבצי משתמש\תכנות\סילבר\Print\DalPrint\obj\Debug\DalPrint.dll
+D:\קבצי משתמש\תכנות\סילבר\Print\DalPrint\obj\Debug\DalPrint.pdb

@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Mishna\Print\BlPrint\bin\Debug\BlPrint.dll
+C:\Users\User\Desktop\Mishna\Print\BlPrint\bin\Debug\BlPrint.pdb
+C:\Users\User\Desktop\Mishna\Print\BlPrint\bin\Debug\DalPrint.dll
+C:\Users\User\Desktop\Mishna\Print\BlPrint\bin\Debug\DalPrint.pdb
+C:\Users\User\Desktop\Mishna\Print\BlPrint\obj\Debug\BlPrint.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Mishna\Print\BlPrint\obj\Debug\BlPrint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mishna\Print\BlPrint\obj\Debug\BlPrint.dll
+C:\Users\User\Desktop\Mishna\Print\BlPrint\obj\Debug\BlPrint.pdb
+D:\קבצי משתמש\תכנות\סילבר\Print\BlPrint\bin\Debug\BlPrint.dll
+D:\קבצי משתמש\תכנות\סילבר\Print\BlPrint\bin\Debug\BlPrint.pdb
+D:\קבצי משתמש\תכנות\סילבר\Print\BlPrint\bin\Debug\DalPrint.dll
+D:\קבצי משתמש\תכנות\סילבר\Print\BlPrint\bin\Debug\DalPrint.pdb
+D:\קבצי משתמש\תכנות\סילבר\Print\BlPrint\obj\Debug\BlPrint.csprojResolveAssemblyReference.cache
+D:\קבצי משתמש\תכנות\סילבר\Print\BlPrint\obj\Debug\BlPrint.csproj.CoreCompileInputs.cache
+D:\קבצי משתמש\תכנות\סילבר\Print\BlPrint\obj\Debug\BlPrint.dll
+D:\קבצי משתמש\תכנות\סילבר\Print\BlPrint\obj\Debug\BlPrint.pdb

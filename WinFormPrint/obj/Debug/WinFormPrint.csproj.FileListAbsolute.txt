@@ -1,0 +1,51 @@
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\bin\Debug\WinFormPrint.exe.config
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\bin\Debug\WinFormPrint.exe
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\bin\Debug\WinFormPrint.pdb
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\bin\Debug\BlPrint.dll
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\bin\Debug\DalPrint.dll
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\bin\Debug\BlPrint.pdb
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\bin\Debug\DalPrint.pdb
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\obj\Debug\WinFormPrint.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\obj\Debug\WinFormPrint.Form1.resources
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\obj\Debug\WinFormPrint.Properties.Resources.resources
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\obj\Debug\WinFormPrint.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\obj\Debug\WinFormPrint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\obj\Debug\WinFormPrint.exe
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\obj\Debug\WinFormPrint.pdb
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\obj\Debug\WinFormPrint.TableForm.resources
+C:\Users\User\Desktop\Mishna\Print\WinFormPrint\obj\Debug\WinFormPrint.LocationFolder.resources
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\bin\Debug\WinFormPrint.exe.config
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\bin\Debug\WinFormPrint.exe
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\bin\Debug\WinFormPrint.pdb
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\bin\Debug\BlPrint.dll
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\bin\Debug\DalPrint.dll
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\bin\Debug\BlPrint.pdb
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\bin\Debug\DalPrint.pdb
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\obj\Debug\WinFormPrint.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\obj\Debug\WinFormPrint.Form1.resources
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\obj\Debug\WinFormPrint.LocationFolder.resources
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\obj\Debug\WinFormPrint.Properties.Resources.resources
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\obj\Debug\WinFormPrint.TableForm.resources
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\obj\Debug\WinFormPrint.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\obj\Debug\WinFormPrint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\obj\Debug\WinFormPrint.exe
+C:\Users\User\Desktop\לג בעומר\Print\WinFormPrint\obj\Debug\WinFormPrint.pdb
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\bin\Debug\WinFormPrint.exe.config
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\bin\Debug\WinFormPrint.exe
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\bin\Debug\WinFormPrint.pdb
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\bin\Debug\BlPrint.dll
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\bin\Debug\Newtonsoft.Json.dll
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\bin\Debug\DalPrint.dll
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\bin\Debug\BlPrint.pdb
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\bin\Debug\DalPrint.pdb
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\obj\Debug\WinFormPrint.csprojResolveAssemblyReference.cache
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\obj\Debug\WinFormPrint.Form1.resources
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\obj\Debug\WinFormPrint.LocationFolder.resources
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\obj\Debug\WinFormPrint.Properties.Resources.resources
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\obj\Debug\WinFormPrint.TableForm.resources
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\obj\Debug\WinFormPrint.csproj.GenerateResource.Cache
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\obj\Debug\WinFormPrint.csproj.CoreCompileInputs.cache
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\obj\Debug\WinFormPrint.exe
+D:\קבצי משתמש\תכנות\סילבר\Print\WinFormPrint\obj\Debug\WinFormPrint.pdb
